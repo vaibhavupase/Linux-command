@@ -45,7 +45,7 @@ This repository contains an assignment on basic Linux commands executed on **Red
 ## 👨‍💻 Author
 
 **Vaibhav Upase**  
-_M.Tech Student | Linux & Cloud Enthusiast_
+_B.Tech Student | DevOps Enthusiast_
 
 ---
 
